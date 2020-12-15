@@ -1887,3 +1887,9 @@ margin: 1em 0;
 }
 
 /*******************************Inspect more css for element*********************************/
+
+#lession-wrapper {
+    margin-right: 250px;
+    border: 1px solid #2076b8;
+    position: relative;
+}

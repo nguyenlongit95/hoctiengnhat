@@ -1947,4 +1947,7 @@ margin: 1em 0;
     #right-menu {
         display: none;
     }
+    #visit-wrap {
+        display: none;
+    }
 }

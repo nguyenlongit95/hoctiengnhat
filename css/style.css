@@ -1904,6 +1904,9 @@ margin: 1em 0;
 .right-txt .right-big {
     font-size: 1.333em;
 }
+.padding-bottom-15 {
+    padding-bottom: 15px;
+}
 /*******************************Inspect more css for element*********************************/
 
 #lession-wrapper {

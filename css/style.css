@@ -1840,6 +1840,9 @@ margin: 1em 0;
 .color-red {
     color: red;
 }
+.font-size-13 {
+    font-size: 1.333em;
+}
 
 /**********************Define background style***********************/
 .background-2076b8 {
@@ -1886,10 +1889,25 @@ margin: 1em 0;
     color: #a3ccff;
 }
 
+.right-link-inner:hover {
+    background: #0a497a;
+}
+
 /*******************************Inspect more css for element*********************************/
 
 #lession-wrapper {
     margin-right: 250px;
     border: 1px solid #2076b8;
     position: relative;
+}
+
+.folder-open::before {
+    content: "\f07c";
+}
+#lession-cotent a:hover {
+    color: #0a497a;
+}
+
+.btn-before-hover:hover {
+    color: #0a497a;
 }

@@ -1856,11 +1856,9 @@ margin: 1em 0;
 .border-style-one {
     border: 3px solid #00000052;
 }
-
 .img-box-height-262 {
     height: 262px;
 }
-
 .img-box-hover {
     background: rgba(0, 33, 71, 0.78);
     bottom: 45px;
@@ -1875,7 +1873,6 @@ margin: 1em 0;
     -webkit-transition: all 0.8s ease;
     transition: all 0.8s ease;
 }
-
 .show-box {
     opacity: 1 !important;
     visibility: inherit !important;
@@ -1885,13 +1882,11 @@ margin: 1em 0;
     -o-transform: scaleX(1);
     -ms-transform: scaleX(1);
 }
-
 .btn-show-hover {
     background: none;
     border: 2px solid #a3ccff;
     color: #a3ccff;
 }
-
 .right-link-inner:hover {
     background: #0a497a;
 }
@@ -1907,26 +1902,22 @@ margin: 1em 0;
 .padding-bottom-15 {
     padding-bottom: 15px;
 }
-/*******************************Inspect more css for element*********************************/
 
+/*******************************Inspect more css for element*********************************/
 #lession-wrapper {
     margin-right: 250px;
     border: 1px solid #2076b8;
     position: relative;
 }
-
 .folder-open::before {
     content: "\f07c";
 }
-
 #lession-cotent a:hover {
     color: #0a497a;
 }
-
 .btn-before-hover:hover {
     color: #0a497a;
 }
-
 #right-menu {
     width: 15%;
     font-size: 13px;
@@ -1937,7 +1928,6 @@ margin: 1em 0;
 #lession-wrapper {
     width: 100%;
 }
-
 #visit-wrap {
     width: 15%;
     font-size: 13px;

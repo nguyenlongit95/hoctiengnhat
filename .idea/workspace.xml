@@ -3,16 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="96a9bd7f-fe2a-4bb6-b8bd-d198dd67c4c9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cap-do.html" beforeDir="false" afterPath="$PROJECT_DIR$/cap-do.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chuyen-de.html" beforeDir="false" afterPath="$PROJECT_DIR$/chuyen-de.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dang-ky-vip.html" beforeDir="false" afterPath="$PROJECT_DIR$/dang-ky-vip.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/de-thi-online.html" beforeDir="false" afterPath="$PROJECT_DIR$/de-thi-online.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/giao-trinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/giao-trinh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc-free.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-free.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoc-online.html" beforeDir="false" afterPath="$PROJECT_DIR$/hoc-online.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/on-tap.html" beforeDir="false" afterPath="$PROJECT_DIR$/on-tap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tai-lieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/tai-lieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +59,7 @@
       <workItem from="1608003243524" duration="11628000" />
       <workItem from="1608026049082" duration="2347000" />
       <workItem from="1608084093004" duration="345000" />
-      <workItem from="1608103468859" duration="11068000" />
+      <workItem from="1608103468859" duration="12448000" />
     </task>
     <servers />
   </component>
